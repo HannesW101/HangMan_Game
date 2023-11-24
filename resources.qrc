@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/Words.csv</file>
+        <file>images/WindowIcon.png</file>
+        <file>images/HangManImage.png</file>
+        <file>images/Line.png</file>
+        <file>images/HintIcon.png</file>
+    </qresource>
+</RCC>
